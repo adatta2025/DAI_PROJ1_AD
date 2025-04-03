@@ -56,7 +56,7 @@ print(str1)
 
 list1 = ["Rohan", "Shailesh", "Sahil", "Vikramaditya", "John", "Nirupama"]
 lst1 = list(map(lambda str1: str1.upper(), list1))
-print(lst1)"""
+print(lst1)
 
 def fun():
     try:
@@ -64,4 +64,5 @@ def fun():
     finally:
         return 20
 k=fun()
-print(k)
+print(k)"""
+
